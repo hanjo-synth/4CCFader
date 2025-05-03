@@ -5,7 +5,7 @@ Crossfade between two programmable MIDI CC patches and interpolate smoothly usin
 
 **Author:** HANJO – Tokyo, Japan 🇯🇵
 
-![Alt text](./4ccfader.png)
+![Alt text](./4CCFader.png)
 
 ---
 
