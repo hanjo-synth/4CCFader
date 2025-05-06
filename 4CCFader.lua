@@ -1,6 +1,7 @@
 -- 4CCFader v1.0
 --
 -- HANJO, Tokyo, Japan.
+--
 -- K2: Toggle focus (Patch A / Patch B / Fader).
 -- K3: Randomize Patch A & B values.
 -- E1: Change page (Main / Settings).
